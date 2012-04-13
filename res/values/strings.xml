@@ -2609,6 +2609,9 @@
     <string name="location_gps_source_notification_title">Alert</string>
     <string name="location_gps_source_notification">The GPS source has been switched! GPS will be disabled. Please re-enable before use!</string>
 
+    <!-- OSARMOD -->
+    <string name="osarmod_settings_title">OSARMOD</string>
+
     <!-- About --> <skip />
     <!-- Main settings screen, setting title for the user to go into the About phone screen -->
     <string name="about_settings" product="tablet">About tablet</string>

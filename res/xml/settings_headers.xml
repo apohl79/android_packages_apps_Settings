@@ -227,6 +227,17 @@
         android:icon="@drawable/ic_settings_performance"
         android:title="@string/performance_settings_title" />
 
+    <!-- OSARMOD -->
+    <header
+        android:id="@+id/osarmod_settings"
+        android:title="@string/osarmod_settings_title"
+        android:icon="@drawable/ic_osarmod">
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetPackage="com.osarmod.omparts"
+            android:targetClass="com.osarmod.omparts.OMParts" />
+    </header>
+
     <!-- About Device -->
     <header
         android:id="@+id/about_settings"
