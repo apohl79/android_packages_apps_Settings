@@ -233,7 +233,7 @@
         android:icon="@drawable/ic_settings_performance"
         android:title="@string/performance_settings_title" />
 
-    <!-- OSARMOD -->
+    <!-- IONIX -->
     <header
         android:id="@+id/osarmod_settings"
         android:title="@string/osarmod_settings_title"

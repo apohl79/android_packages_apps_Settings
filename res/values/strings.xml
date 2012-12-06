@@ -4879,7 +4879,7 @@
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 
-    <!-- OSARMOD -->
-    <string name="osarmod_settings_title">OSARMOD</string>
+    <!-- IONIX -->
+    <string name="osarmod_settings_title">IONIX</string>
 
 </resources>
