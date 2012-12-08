@@ -414,9 +414,6 @@ public class Settings extends PreferenceActivity
     }
 
     private void updateHeaderList(List<Header> target) {
-        final boolean showDev = mDevelopmentPreferences.getBoolean(
-                DevelopmentSettings.PREF_SHOW,
-                android.os.Build.TYPE.equals("eng"));
         int i = 0;
 
         mHeaderIndexMap.clear();
@@ -472,11 +469,6 @@ public class Settings extends PreferenceActivity
                 if (!UserHandle.MU_ENABLED
                         || !UserManager.supportsMultipleUsers()
                         || Utils.isMonkeyRunning()) {
-                    target.remove(i);
-                }
-            } else if (id == R.id.development_settings
-                    || id == R.id.performance_settings) {
-                if (!showDev) {
                     target.remove(i);
                 }
             }
