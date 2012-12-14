@@ -1464,7 +1464,11 @@
 
         <activity android:name=".cyanogenmod.LockscreenInterface" />
 
+        <activity android:name=".cyanogenmod.LockscreenButtons" />
+
         <activity android:name=".cyanogenmod.PowerMenu" />
+
+        <activity android:name=".cyanogenmod.QuickSettings" />
 
         <activity android:name=".profiles.NFCProfile"
                 android:theme="@android:style/Theme.NoDisplay">
