@@ -1320,6 +1320,8 @@
     <string name="wifi_required_info_text">To complete setup, your tablet needs access to Wi-Fi. After setup, you can switch between mobile data and Wi-Fi.</string>
 
     <!-- Dialog for Access Points --> <skip />
+    <!-- Label for automatically_connect -->
+    <string name="wifi_auto_connect">Automatically connect</string>
     <!-- Label to show/hide advanced options -->
     <string name="wifi_show_advanced">Show advanced options</string>
     <!-- Title for the WPS setup dialog [CHAR LIMIT=50] -->
@@ -3663,6 +3665,10 @@
          [CHAR LIMIT=40] -->
     <string name="sound_category_system_title">System</string>
 
+    <!-- Category title for headset specific Settings.
+         [CHAR LIMIT=40] -->
+    <string name="headset_category_title">Headset</string>
+
     <!-- Wifi Setup For Setup Wizard with XL screen -->
     <!-- Title shown in Wifi Setup Wizard with XL screen -->
     <string name="wifi_setup_title">Wi-Fi setup</string>
@@ -4855,6 +4861,7 @@
     <string name="volume_overlay_title">Volume panel style</string>
     <string name="volbtn_music_controls_title">Volume rocker music controls</string>
     <string name="volbtn_music_controls_summary">When screen off, long-pressing the volume rockers will seek music tracks</string>
+    <string name="headset_connect_player_title">Launch music app on connect</string>
     <string name="volume_ring_only_description">Ringtone</string>
     <string name="ring_mode_title">Ring mode</string>
     <string name="ring_mode_normal">Normal</string>
@@ -4882,6 +4889,17 @@
     <string name="hardware_keys_action_search">Search assistant</string>
     <string name="hardware_keys_action_voice_search">Voice search</string>
     <string name="hardware_keys_action_in_app_search">In-app search</string>
+
+    <!-- Navigation Bar #CM -->
+    <string name="navigation_bar_title">Navigation bar</string>
+    <string name="navigation_bar_help_text">1 - To begin editing, tap the lock icon\n\n2 - Tap any button to assign or change functionality\n\n3 - Long press any button to rearrange the order\n\n4 - To save, tap the lock icon again\n\n5 - To restore system default, tap the reset button\n\n</string>
+    <string name="navigation_bar_tips">&#8226; Actions can only be assigned to one button at a time\n\n&#8226; The home button cannot be re-assigned\n\n&#8226; Side buttons cannot be rearranged</string>
+    <string name="navigation_bar_tips_title">Quick tips</string>
+    <string name="navigation_bar_reset_message">Delete current settings and restore to default?</string>
+    <string name="navigation_bar_save_message">Navigation bar settings saved</string>
+    <string name="navigation_bar_reset_toast">Navigation bar reset to default</string>
+    <string name="navigation_bar_menu_editable">Editable</string>
+    <string name="navigation_bar_menu_locked">Locked</string>
 
     <!-- Power Widget  -->
     <string name="power_widget_title">Power widget</string>
@@ -5093,6 +5111,9 @@
     <!-- Stylus Icon -->
     <string name="stylus_icon_enabled_title">Show icon when using stylus</string>
     <string name="stylus_icon_enabled_summary">Show the pointer icon when hovering or drawing with the stylus</string>
+
+    <string name="lockscreen_maximize_widgets_title">Maximize widgets</string>
+    <string name="lockscreen_maximize_widgets_summary">Show widgets maximized and the unlock minimized when the screen is turned on</string>
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 
