@@ -2385,10 +2385,8 @@
 
     <!-- Display : Rotation #CM -->
     <string name="display_rotation_title">自動回転</string>
-    <string name="display_rotation_enabled">有効</string>
     <string name="display_rotation_disabled">無効</string>
     <string name="display_rotation_unit">度</string>
-    <string name="display_lockscreen_rotation_title">ロック画面の回転</string>
     <string name="display_rotation_category_title">回転モード</string>
     <string name="display_rotation_0_title">0度</string>
     <string name="display_rotation_90_title">90度</string>
@@ -2536,7 +2534,7 @@
 
     <!--- Lock clock -->
     <string name="lock_clock_title">時計ウィジェット</string>
-    <string name="lock_clock_summary">\'Chronus\' ホームとロック画面のウィジェットの見え方を設定する。</string>
+    <string name="lock_clock_summary">\'cLock\' ホームとロック画面のウィジェットの見え方を設定する。</string>
 
     <!-- Stylus Icon -->
     <string name="stylus_icon_enabled_title">スタイラスポインタを表示する</string>

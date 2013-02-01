@@ -2142,10 +2142,8 @@
 
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_enabled">Aktiveret</string>
     <string name="display_rotation_disabled">Deaktiveret</string>
     <string name="display_rotation_unit">grader</string>
-    <string name="display_lockscreen_rotation_title">Inkluder skærmlås</string>
     <string name="display_rotation_category_title">Rotationstilstande</string>
     <string name="display_rotation_0_title">0 grader</string>
     <string name="display_rotation_90_title">90 grader</string>
@@ -2514,7 +2512,7 @@
 
     <!--- Lock clock -->
     <string name="lock_clock_title">Ur-widget</string>
-    <string name="lock_clock_summary">Vis eller skift, hvordan Start- og Skærmlås-widgets for \'Chronus\' bliver vist</string>
+    <string name="lock_clock_summary">Vis eller skift, hvordan Start- og Skærmlås-widgets for \'cLock\' bliver vist</string>
 
     <!-- Stylus Icon -->
     <string name="stylus_icon_enabled_title">Vis ikon ved brug af pen</string>

@@ -2148,10 +2148,8 @@
 
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Поворот экрана</string>
-    <string name="display_rotation_enabled">Включено.</string>
-    <string name="display_rotation_disabled">Выключено.</string>
+    <string name="display_rotation_disabled">Выключено</string>
     <string name="display_rotation_unit">градусов</string>
-    <string name="display_lockscreen_rotation_title">Включая экран блокировки</string>
     <string name="display_rotation_category_title">Режимы вращения</string>
     <string name="display_rotation_0_title">0 градусов</string>
     <string name="display_rotation_90_title">90 градусов</string>
@@ -2516,8 +2514,8 @@
     <string name="sms_security_check_limit_default">30 (По умолч.)</string>
 
     <!--- Lock clock -->
-    <string name="lock_clock_title">Виджет \"Chronus\"</string>
-    <string name="lock_clock_summary">Просмотр или изменение настроек отображения виджета \"Chronus\" на рабочем столе или экране блокировки</string>
+    <string name="lock_clock_title">Виджет \"cLock\"</string>
+    <string name="lock_clock_summary">Просмотр или изменение настроек отображения виджета \"cLock\" на рабочем столе или экране блокировки</string>
 
     <!-- Stylus Icon -->
     <string name="stylus_icon_enabled_title">Указатель пера</string>

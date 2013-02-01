@@ -2149,10 +2149,8 @@
 
     <!-- Display : Rotation  -->
     <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_enabled">Activé :</string>
     <string name="display_rotation_disabled">Désactivé</string>
     <string name="display_rotation_unit">degrés</string>
-    <string name="display_lockscreen_rotation_title">Inclure l\'écran de verrouillage</string>
     <string name="display_rotation_category_title">Angles de rotation</string>
     <string name="display_rotation_0_title">0 degré</string>
     <string name="display_rotation_90_title">90 degrés</string>
@@ -2489,7 +2487,7 @@
 
     <!--- Lock clock -->
     <string name="lock_clock_title">Widget horloge</string>
-    <string name="lock_clock_summary">Afficher ou modifier la façon dont \'Chronus\' est affiché sur l\'écran d\'accueil ou de verrouillage</string>
+    <string name="lock_clock_summary">Afficher ou modifier la façon dont \'cLock\' est affiché sur l\'écran d\'accueil ou de verrouillage</string>
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 

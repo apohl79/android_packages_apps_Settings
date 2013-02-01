@@ -2155,10 +2155,8 @@
 
     <!-- Display : Rotation  -->
     <string name="display_rotation_title">旋转</string>
-    <string name="display_rotation_enabled">已启用.</string>
-    <string name="display_rotation_disabled">已禁用.</string>
+    <string name="display_rotation_disabled">已禁用</string>
     <string name="display_rotation_unit">度</string>
-    <string name="display_lockscreen_rotation_title">包括锁屏</string>
     <string name="display_rotation_category_title">旋转模式</string>
     <string name="display_rotation_0_title">0 度</string>
     <string name="display_rotation_90_title">90 度</string>
@@ -2507,7 +2505,7 @@
 
     <!--- Lock clock -->
     <string name="lock_clock_title">时钟小部件</string>
-    <string name="lock_clock_summary">查看或改变 \'Chronus\' 锁屏与主屏幕小部件的显示方式</string>
+    <string name="lock_clock_summary">查看或改变 \'cLock\' 锁屏与主屏幕小部件的显示方式</string>
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 </resources>

@@ -2057,10 +2057,8 @@
     <string name="pref_use_16bpp_alpha_title">Transparencia 16bit</string>
     <string name="pref_use_16bpp_alpha_summary">Ofrece mejor rendimiento gráfico a costa de una menor calidad gráfica. Adicionalmente, puede causar defectos visuales (requiere reiniciar)</string>
     <string name="display_rotation_title">Rotación</string>
-    <string name="display_rotation_enabled">Activado.</string>
-    <string name="display_rotation_disabled">Desactivado.</string>
+    <string name="display_rotation_disabled">Desactivado</string>
     <string name="display_rotation_unit">grados</string>
-    <string name="display_lockscreen_rotation_title">Incluir pantalla de bloqueo</string>
     <string name="display_rotation_category_title">Modos de rotación</string>
     <string name="display_rotation_0_title">0 º</string>
     <string name="display_rotation_90_title">90 º</string>
@@ -2350,8 +2348,8 @@
     <string name="sms_security_check_limit_title">Límite de mensajes SMS</string>
     <string name="sms_security_check_limit_summary">Mostrar un mensaje de alerta cuando alguna aplicación envíe mensajes SMS de forma reiterada. Actualmente: %d mensajes en 15 minutos</string>
     <string name="sms_security_check_limit_default">30 (por defecto)</string>
-    <string name="lock_clock_title">Widget Chronus</string>
-    <string name="lock_clock_summary">Ver o cambiar cómo se mostrará el widget del reloj Chronus</string>
+    <string name="lock_clock_title">Widget cLock</string>
+    <string name="lock_clock_summary">Ver o cambiar cómo se mostrará el widget del reloj cLock</string>
     <string name="stylus_icon_enabled_title">Stylus</string>
     <string name="stylus_icon_enabled_summary">Mostrar el cursor cuando se arrastra o dibuja con Stylus</string>
     <string name="navigation_bar_title">Barra de navegación</string>
