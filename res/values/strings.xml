@@ -5198,6 +5198,8 @@
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 
     <!-- IONIX -->
+    <string name="ionix_voltage_title">Voltage</string>
+    <string name="ionix_voltage_summary">Adjust voltage values for different clock speeds</string>
     <string name="osarmod_settings_title">IONIX</string>
 
 </resources>

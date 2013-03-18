@@ -2635,4 +2635,9 @@
     <string name="navring_choose_action_title">Aktion auswählen</string>
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
+
+    <!-- IONIX -->
+    <string name="ionix_voltage_title">Spannung</string>
+    <string name="ionix_voltage_summary">Spannungswerte für verschiedene Taktfrequenzen einstellen</string>
+
 </resources>
